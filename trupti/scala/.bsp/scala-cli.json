@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\Trupti\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\Trupti\\OneDrive\\Desktop\\WingsAi\\api_connect\\trupti\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\Trupti\\OneDrive\\Desktop\\WingsAi\\api_connect\\trupti\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\Trupti\\OneDrive\\Desktop\\WingsAi\\api_connect\\trupti\\.scala-build\\ide-envs.json",
+    "C:\\Users\\Trupti\\OneDrive\\Desktop\\WingsAi\\api_connect\\trupti\\wordle_scala_new.scala"
+  ],
+  "version": "1.8.3",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

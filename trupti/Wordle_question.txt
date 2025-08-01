@@ -1,0 +1,1 @@
+Create an API-powered Wordle game where the computer intelligently guesses words using object-oriented programming.
